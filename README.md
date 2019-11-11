@@ -11,6 +11,12 @@ If you want to try  -->
 
 You are going to need *Python 3* to run this code.
 
+You also need the *tqdm* module for a quality of life improvement (progress bar). To install just use pip:
+
+```
+pip3 install tqdm
+```
+
 ### How to run
 
 First, clone this repository to your PC:
